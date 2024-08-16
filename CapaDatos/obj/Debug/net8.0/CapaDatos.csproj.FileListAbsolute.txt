@@ -1,0 +1,14 @@
+C:\NetMarket\Tienda_Videojuegos\CapaDatos\bin\Debug\net8.0\CapaDatos.deps.json
+C:\NetMarket\Tienda_Videojuegos\CapaDatos\bin\Debug\net8.0\CapaDatos.runtimeconfig.json
+C:\NetMarket\Tienda_Videojuegos\CapaDatos\bin\Debug\net8.0\CapaDatos.dll
+C:\NetMarket\Tienda_Videojuegos\CapaDatos\bin\Debug\net8.0\CapaDatos.pdb
+C:\NetMarket\Tienda_Videojuegos\CapaDatos\obj\Debug\net8.0\CapaDatos.csproj.AssemblyReference.cache
+C:\NetMarket\Tienda_Videojuegos\CapaDatos\obj\Debug\net8.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\NetMarket\Tienda_Videojuegos\CapaDatos\obj\Debug\net8.0\CapaDatos.AssemblyInfoInputs.cache
+C:\NetMarket\Tienda_Videojuegos\CapaDatos\obj\Debug\net8.0\CapaDatos.AssemblyInfo.cs
+C:\NetMarket\Tienda_Videojuegos\CapaDatos\obj\Debug\net8.0\CapaDatos.csproj.CoreCompileInputs.cache
+C:\NetMarket\Tienda_Videojuegos\CapaDatos\obj\Debug\net8.0\CapaDatos.dll
+C:\NetMarket\Tienda_Videojuegos\CapaDatos\obj\Debug\net8.0\refint\CapaDatos.dll
+C:\NetMarket\Tienda_Videojuegos\CapaDatos\obj\Debug\net8.0\CapaDatos.pdb
+C:\NetMarket\Tienda_Videojuegos\CapaDatos\obj\Debug\net8.0\CapaDatos.genruntimeconfig.cache
+C:\NetMarket\Tienda_Videojuegos\CapaDatos\obj\Debug\net8.0\ref\CapaDatos.dll

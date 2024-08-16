@@ -1,0 +1,15 @@
+C:\NetMarket\Tienda_Videojuegos\CapaNegocio\bin\Debug\net8.0\CapaNegocio.deps.json
+C:\NetMarket\Tienda_Videojuegos\CapaNegocio\bin\Debug\net8.0\CapaNegocio.dll
+C:\NetMarket\Tienda_Videojuegos\CapaNegocio\bin\Debug\net8.0\CapaNegocio.pdb
+C:\NetMarket\Tienda_Videojuegos\CapaNegocio\bin\Debug\net8.0\CapaDatos.dll
+C:\NetMarket\Tienda_Videojuegos\CapaNegocio\bin\Debug\net8.0\CapaDatos.pdb
+C:\NetMarket\Tienda_Videojuegos\CapaNegocio\obj\Debug\net8.0\CapaNegocio.csproj.AssemblyReference.cache
+C:\NetMarket\Tienda_Videojuegos\CapaNegocio\obj\Debug\net8.0\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\NetMarket\Tienda_Videojuegos\CapaNegocio\obj\Debug\net8.0\CapaNegocio.AssemblyInfoInputs.cache
+C:\NetMarket\Tienda_Videojuegos\CapaNegocio\obj\Debug\net8.0\CapaNegocio.AssemblyInfo.cs
+C:\NetMarket\Tienda_Videojuegos\CapaNegocio\obj\Debug\net8.0\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\NetMarket\Tienda_Videojuegos\CapaNegocio\obj\Debug\net8.0\CapaNegocio.csproj.CopyComplete
+C:\NetMarket\Tienda_Videojuegos\CapaNegocio\obj\Debug\net8.0\CapaNegocio.dll
+C:\NetMarket\Tienda_Videojuegos\CapaNegocio\obj\Debug\net8.0\refint\CapaNegocio.dll
+C:\NetMarket\Tienda_Videojuegos\CapaNegocio\obj\Debug\net8.0\CapaNegocio.pdb
+C:\NetMarket\Tienda_Videojuegos\CapaNegocio\obj\Debug\net8.0\ref\CapaNegocio.dll
